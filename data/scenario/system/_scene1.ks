@@ -1,0 +1,7 @@
+[preload  storage="./data/bgimage/Gemini_Generated_Image_sb32j6sb32j6sb32.png"  ]
+[preload  storage="./data/fgimage/default/Gemini_Generated_Image_sb32j6sb32j6sb32_(2).png"  ]
+[preload  storage="./data/fgimage/default/Gemini_Generated_Image_sb32j6sb32j6sb32_(4).png"  ]
+[preload  storage="./data/fgimage/default/Gemini_Generated_Image_sb32j6sb32j6sb32_(3).png"  ]
+[preload  storage="./data/fgimage/default/Gemini_Generated_Image_sb32j6sb32j6sb32_(1).png"  ]
+[preload  storage="./data/fgimage/default/Gemini_Generated_Image_sb32j6sb32j6sb32.png"  ]
+[return]
